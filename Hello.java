@@ -11,7 +11,7 @@ class Hello {
     }
 	
 	private void Beaphin() {
-        System.out.println("Beaphin Somchai, Boy");
+        System.out.println("Trainee Beaphin Somchai, Boy");
     }
     
     public static void main(String [] argv) {
